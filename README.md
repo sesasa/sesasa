@@ -30,6 +30,6 @@ The projects below cover finance, economics, physiology, mechanical engineering 
 ## How I work with agents
 
 - **Spec first.** I write a brief with phases and acceptance criteria. The agent builds one phase, then stops for review.
-- **Independent review.** A second agent (or model) reviews architecture and results, and its findings and decisions are kept in the repo.
+- **Independent review.** One agent builds and the other reviews. Codex usually builds with Claude Code consulting, or Claude Code builds with Codex consulting. Their reviews and decisions are kept in the repo.
 - **Verifiable output.** Invariants, golden regressions, unit tests and Playwright tests, plus a documented source for every model assumption.
 - **Provenance.** Sourced data, pinned snapshots and recorded design decisions (`DECISIONS.md`).
