@@ -4,6 +4,12 @@ I build working software with AI agents. I take an unfamiliar problem, write a s
 
 The projects below cover robotics, finance, economics, physiology, mechanical engineering and 3D. Each repository explains what was built, how the agents were used and how to run it.
 
+## Robotics
+
+| Project | What it shows |
+|---|---|
+| [**soarm-mujoco-mirror**](https://github.com/sesasa/soarm-mujoco-mirror) | A real SO-101 arm with a calibrated MuJoCo twin. Say "pick and place the biscuit": GPT picks the object from the camera image, then SciPy/MuJoCo IK plans the motion and the real arm executes it. Demo videos included. |
+
 ## Agentic AI and financial data
 
 | Project | What it shows |
@@ -11,12 +17,6 @@ The projects below cover robotics, finance, economics, physiology, mechanical en
 | [**civilization-infrastructure-markets**](https://github.com/sesasa/civilization-infrastructure-markets) | A multi-agent research debate (Codex ↔ Claude) tested against five years of global market data, with a data pipeline and an auto-generated PDF report. |
 | [**financial-ontology-lab**](https://github.com/sesasa/financial-ontology-lab) | An RDF/SPARQL knowledge graph over SEC filings, with full provenance and a grounded context packet for LLM agents. |
 | [**nvidia-earnings-cli**](https://github.com/sesasa/nvidia-earnings-cli) | SEC EDGAR → SQLite with deterministic financial Q&A, plus an LLM mode that cites its evidence and never runs model-generated SQL. |
-
-## Robotics
-
-| Project | What it shows |
-|---|---|
-| [**soarm-mujoco-mirror**](https://github.com/sesasa/soarm-mujoco-mirror) | A real SO-101 arm with a calibrated MuJoCo twin. Say "pick and place the biscuit": GPT picks the object from the camera image, then SciPy/MuJoCo IK plans the motion and the real arm executes it. Demo videos included. |
 
 ## Simulation and modelling
 
