@@ -10,14 +10,6 @@ The projects below cover robotics, finance, economics, physiology, mechanical en
 |---|---|
 | [**soarm-mujoco-mirror**](https://github.com/sesasa/soarm-mujoco-mirror) | A real SO-101 arm with a calibrated MuJoCo twin. Say "pick and place the biscuit": GPT picks the object from the camera image, then SciPy/MuJoCo IK plans the motion and the real arm executes it. Demo videos included. |
 
-## Agentic AI and financial data
-
-| Project | What it shows |
-|---|---|
-| [**civilization-infrastructure-markets**](https://github.com/sesasa/civilization-infrastructure-markets) | A multi-agent research debate (Codex ↔ Claude) tested against five years of global market data, with a data pipeline and an auto-generated PDF report. |
-| [**financial-ontology-lab**](https://github.com/sesasa/financial-ontology-lab) | An RDF/SPARQL knowledge graph over SEC filings, with full provenance and a grounded context packet for LLM agents. |
-| [**nvidia-earnings-cli**](https://github.com/sesasa/nvidia-earnings-cli) | SEC EDGAR → SQLite with deterministic financial Q&A, plus an LLM mode that cites its evidence and never runs model-generated SQL. |
-
 ## Simulation and modelling
 
 | Project | What it shows |
@@ -32,6 +24,14 @@ The projects below cover robotics, finance, economics, physiology, mechanical en
 |---|---|
 | [**3d-house-walkthrough**](https://github.com/sesasa/3d-house-walkthrough) | A Danish villa rebuilt from photos into a walkable Three.js house with GPU-baked lighting (Blender on RunPod), Unreal scenes and an OpenFOAM winter heating study. |
 | [**forklift-explained**](https://github.com/sesasa/forklift-explained) | A narrated, physics-backed explainer of a forklift powertrain, with CI deployment to GitHub Pages. |
+
+## Agentic AI and financial data
+
+| Project | What it shows |
+|---|---|
+| [**civilization-infrastructure-markets**](https://github.com/sesasa/civilization-infrastructure-markets) | A multi-agent research debate (Codex ↔ Claude) tested against five years of global market data, with a data pipeline and an auto-generated PDF report. |
+| [**financial-ontology-lab**](https://github.com/sesasa/financial-ontology-lab) | An RDF/SPARQL knowledge graph over SEC filings, with full provenance and a grounded context packet for LLM agents. |
+| [**nvidia-earnings-cli**](https://github.com/sesasa/nvidia-earnings-cli) | SEC EDGAR → SQLite with deterministic financial Q&A, plus an LLM mode that cites its evidence and never runs model-generated SQL. |
 
 ## How I work with agents
 
