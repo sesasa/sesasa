@@ -14,13 +14,7 @@ The projects below cover robotics, finance, economics, physiology, mechanical en
 
 | Project | What it shows |
 |---|---|
-| [**soarm-mujoco-mirror**](https://github.com/sesasa/soarm-mujoco-mirror) | A real SO-101 arm with a calibrated MuJoCo twin. Say "pick and place the biscuit": GPT picks the object from the camera image, then SciPy/MuJoCo IK plans the motion and the real arm executes it. Demo videos below. |
-
-| GPT-selected pick-and-place | Sim-to-real grasp |
-|---|---|
-| [![GPT-selected pick-and-place on the real SO-101 arm](https://github.com/sesasa/soarm-mujoco-mirror/raw/main/media/gpt-pick-and-place.gif)](https://github.com/sesasa/soarm-mujoco-mirror/raw/main/media/gpt-pick-and-place.mp4) | [![Sim-to-real grasp with the MuJoCo twin](https://github.com/sesasa/soarm-mujoco-mirror/raw/main/media/sim-to-real-grasp.gif)](https://github.com/sesasa/soarm-mujoco-mirror/raw/main/media/sim-to-real-grasp.mp4) |
-
-Previews play at 3× speed; click either one for the full-length video.
+| [**soarm-mujoco-mirror**](https://github.com/sesasa/soarm-mujoco-mirror) | A real SO-101 arm with a calibrated MuJoCo twin. Say "pick and place the biscuit": GPT picks the object from the camera image, then SciPy/MuJoCo IK plans the motion and the real arm executes it. Videos: [GPT pick-and-place](https://github.com/sesasa/soarm-mujoco-mirror/blob/main/media/gpt-pick-and-place.mp4), [sim-to-real grasp](https://github.com/sesasa/soarm-mujoco-mirror/blob/main/media/sim-to-real-grasp.mp4). |
 
 ## Simulation and modelling
 
