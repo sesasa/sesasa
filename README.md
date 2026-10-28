@@ -14,15 +14,21 @@ The projects below cover robotics, finance, economics, physiology, mechanical en
 
 | Project | What it shows |
 |---|---|
-| [**soarm-mujoco-mirror**](https://github.com/sesasa/soarm-mujoco-mirror) | A real SO-101 arm with a calibrated MuJoCo twin. Say "pick and place the biscuit": GPT picks the object from the camera image, then SciPy/MuJoCo IK plans the motion and the real arm executes it. Demo videos included. |
+| [**soarm-mujoco-mirror**](https://github.com/sesasa/soarm-mujoco-mirror) | A real SO-101 arm with a calibrated MuJoCo twin. Say "pick and place the biscuit": GPT picks the object from the camera image, then SciPy/MuJoCo IK plans the motion and the real arm executes it. Demo videos below. |
+
+| GPT-selected pick-and-place | Sim-to-real grasp |
+|---|---|
+| [![GPT-selected pick-and-place on the real SO-101 arm](https://github.com/sesasa/soarm-mujoco-mirror/raw/main/media/gpt-pick-and-place.gif)](https://github.com/sesasa/soarm-mujoco-mirror/raw/main/media/gpt-pick-and-place.mp4) | [![Sim-to-real grasp with the MuJoCo twin](https://github.com/sesasa/soarm-mujoco-mirror/raw/main/media/sim-to-real-grasp.gif)](https://github.com/sesasa/soarm-mujoco-mirror/raw/main/media/sim-to-real-grasp.mp4) |
+
+Previews play at 3× speed; click either one for the full-length video.
 
 ## Simulation and modelling
 
 | Project | What it shows |
 |---|---|
+| [**human-energy-flow**](https://github.com/sesasa/human-energy-flow) | A metabolism, exercise and adaptation simulator based on real food data, with more than ten test suites and independent agent reviews. [**Live demo**](https://sesasa.github.io/human-energy-flow/) |
 | [**city-economy-simulator**](https://github.com/sesasa/city-economy-simulator) | An 11-stage, stock-flow-consistent economy simulator built with Claude Code from a spec. Plugin layers, 178 tests and an animated town twin. |
 | [**money-lab**](https://github.com/sesasa/money-lab) | An interactive monetary-economy lab (React and TypeScript). Built with Codex, with the architecture reviewed by Claude. |
-| [**human-energy-flow**](https://github.com/sesasa/human-energy-flow) | A metabolism, exercise and adaptation simulator based on real food data, with more than ten test suites and independent agent reviews. |
 
 ## Interactive 3D and engineering
 
