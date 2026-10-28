@@ -8,7 +8,8 @@ The projects below cover robotics, finance, economics, physiology, mechanical en
 
 | Project | What it shows |
 |---|---|
-| [**cad-operations-atlas**](https://github.com/sesasa/cad-operations-atlas) | An interactive Three.js atlas of 44 CAD modeling operations, from extrude and loft to zebra stripes and mold splits, plus a 6'0" shortboard built step by step from those operations. [**Live demo**](https://sesasa.github.io/cad-operations-atlas/) |
+| [**cad-operations-atlas**](https://github.com/sesasa/cad-operations-atlas) | An interactive Three.js atlas of 44 CAD modeling operations, from extrude and loft to zebra stripes and mold splits, with three worked examples built step by step: a 6'0" shortboard, an outboard propeller and a snap-fit enclosure. [**Live demo**](https://sesasa.github.io/cad-operations-atlas/) |
+| [**snap-fit-enclosure**](https://github.com/sesasa/snap-fit-enclosure) | An ABS enclosure whose lid clips on with four cantilever snap hooks: a CadQuery model, a section-view animation of the hooks snapping in, and a 3D finite-element analysis (gmsh and scikit-fem) that found the first design at its strain limit and led to a tapered hook. [**Live demo**](https://sesasa.github.io/snap-fit-enclosure/) |
 
 ## Robotics
 
