@@ -4,6 +4,12 @@ I build working software with AI agents. I take an unfamiliar problem, write a s
 
 The projects below cover robotics, finance, economics, physiology, mechanical engineering and 3D. Each repository explains what was built, how the agents were used and how to run it.
 
+## Featured
+
+| Project | What it shows |
+|---|---|
+| [**cad-operations-atlas**](https://github.com/sesasa/cad-operations-atlas) | An interactive Three.js atlas of 44 CAD modeling operations, from extrude and loft to zebra stripes and mold splits, plus a 6'0" shortboard built step by step from those operations. [**Live demo**](https://sesasa.github.io/cad-operations-atlas/) |
+
 ## Robotics
 
 | Project | What it shows |
